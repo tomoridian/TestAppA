@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"Equipment Purchasing "</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_title">Equipment Purchasing</string>
+    <string name="Saw_Machine">เครื่องเลื่อย</string>
+    <string name="Water_pump">เครื่องปั่มน้ำ</string>
+    <string name="Sprayer">เครื่องพ่นยา</string>
+    <string name="Machine_tap">เครื่องตัดกิ่ง</string>
+    <string name="Machine_Full">เครื่องบดดิน</string>
+    <string name="title_activity_page_saw">Saw</string>
+</resources>
